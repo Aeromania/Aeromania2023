@@ -1295,10 +1295,11 @@ body {
  .cloud {
    position: absolute;
    top: 0px;
-   right: -500px;
-   opacity: .8;
+   right: -400px;
+   opacity: 0.7;
     animation: cloud 10s linear 0s infinite reverse;
-   z-index: 99;
+   z-index: 199;
+   scale: 0.4;
  }
  @keyframes light {
    0% {opacity: 0;}
