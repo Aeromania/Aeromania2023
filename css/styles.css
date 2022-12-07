@@ -2797,6 +2797,7 @@ img.u-pull-left {
   }
   button {
     margin: 20px;
+    transform: translateX(50%);
   }
   .custom-btn {
     width: 150px;
