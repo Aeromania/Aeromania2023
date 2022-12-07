@@ -1291,17 +1291,7 @@ body {
     color       : var(--color-text);
 }
 
- .light {
-   width: 10px;
-   height: 10px;
-   background: red;
-   border-radius: 50%;
-      bottom: 295px;
-   position: absolute;
-   z-index: 10;
-   left: 20px;
-   animation: light 800ms ease-in-out 0s infinite alternate;
- }
+
  .cloud {
    position: absolute;
    top: 0px;
