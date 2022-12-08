@@ -91,9 +91,9 @@
 
             if (days <= 99) {
                 if (days <= 9) {
-                    days = '00' + days;
+                    days =days;
                 } else { 
-                    days = '0' + days;
+                    days = days;
                 }
             }
 
