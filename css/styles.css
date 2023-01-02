@@ -3965,3 +3965,7 @@ img.u-pull-left {
         width  : 4.8rem;
     }
 }
+.igc{
+    align-items: center;
+    overflow: hidden;
+}
